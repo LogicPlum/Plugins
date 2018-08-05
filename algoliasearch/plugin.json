@@ -1,0 +1,13 @@
+{
+    "id" : "algoliasearch",
+    "version" : "0.0.5",
+    "meta" : {
+        "label": "Algolia Search Connector",
+        "description" : "A read-and-write connector for the Algolia search API",
+        "author" : "LogicPlum",
+        "icon" : "icon-search",
+        "tags" : ["SaaS", "API", "Connector"],
+        "licenseInfo" : "Apache Software License version 2",
+        "url" : "https://www.logicplum.com/community/plugins/info/algoliasearch.html"
+    }
+}
